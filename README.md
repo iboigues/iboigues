@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![](https://github.com/iboigues/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/iboigues/github-stats-transparent/blob/output/generated/languages.svg)
 <!--
 **iboigues/iboigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
